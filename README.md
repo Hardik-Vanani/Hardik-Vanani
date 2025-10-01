@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate BackEnd Developer, always eager t
 - 🎓 **Education**: Currently studying BCA at Veer Narmad University.
 - 🛠️ **Internship**: Currently interning at ThetaSol.
 - 🌱 **Learning**: Currently learning Node-Js.
-- 📫 **Contact**: vananihardik8553@gmail.com
+- 📫 **Contact**: hardikvanani05@gmail.com
   
 ---
 

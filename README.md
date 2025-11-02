@@ -34,8 +34,8 @@ Welcome to my GitHub profile! I'm a passionate BackEnd Developer, always eager t
 
 ---
 
-## 🏆 Achievements
-<!-- <div align="center">
+<!-- ## 🏆 Achievements
+<div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Hardik-Vanani&theme=darkhub" alt="GitHub Trophies" />
   </a>
@@ -51,9 +51,9 @@ Welcome to my GitHub profile! I'm a passionate BackEnd Developer, always eager t
   <a href="https://www.instagram.com/ihardikk_/" target="_blank" style="margin: 10px;">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
   </a>
-  <a href="https://vhardik.is-a.dev" target="_blank" style="margin: 10px;">
+  <!-- <a href="https://vhardik.is-a.dev" target="_blank" style="margin: 10px;">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=web&logoColor=white" alt="Website" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
-  </a>
+  </a> -->
 </div>
 
 ---

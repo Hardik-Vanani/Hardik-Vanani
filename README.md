@@ -41,8 +41,6 @@ Welcome to my GitHub profile! I'm a passionate BackEnd Developer, always eager t
   </a>
 </div> -->
 
----
-
 ## 🌐 Connect with Me
 <div align="center" style="padding: 20px;">
   <a href="https://www.linkedin.com/in/hardik-vanani-a1057230a/" target="_blank" style="margin: 10px;">
